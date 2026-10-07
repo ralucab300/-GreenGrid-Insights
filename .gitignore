@@ -1,0 +1,5 @@
+.env
+time_series.xlsx
+__pycache__/
+*.xlsx
+*.log
